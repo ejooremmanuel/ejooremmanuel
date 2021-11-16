@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Emmanuel is a detail-oriented full stack engineer with 1 year+ industry experience creating cutting 
+edge web-based solutions and mobile applications with React.JS, Flutter and Dart. He is capable of 
+working in a cross-functional team to deliver a complete user experience and interface. Emmanuel 
+Ejoor has a strong ability to translate Figma and Photoshop wireframe to functional web apps using 
+HTML 5, React, Node.js, Express, and MongoDB. 
